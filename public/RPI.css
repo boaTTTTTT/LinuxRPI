@@ -1,0 +1,25 @@
+html{
+    min-height: 100%;
+}
+body{
+    font-size: 30px ;
+    margin-left: auto;
+background: -webkit-linear-gradient(lightcyan,#00ffea);
+background: -o-linear-gradient(lightcyan,#00ffea);
+background: -moz-linear-gradient(lightcyan,#00ffea);
+background: linear-gradient(lightcyan 30%,#00ffea 70%);
+background-color: #00ffea;
+text-align: center;
+
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+b{
+    font-family:sans-serif ;
+}
+a{
+    font-family: sans-serif;
+    font-size: 25px;
+}
